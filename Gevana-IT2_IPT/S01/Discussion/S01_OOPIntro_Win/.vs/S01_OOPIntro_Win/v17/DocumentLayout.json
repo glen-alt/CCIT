@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CCITGuest\\OneDrive - firstasia.edu.ph\\Documents\\Gevana-IT2_IPT\\S01\\Discussion\\S01_OOPIntro_Win\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4511A7DF-DD4E-4BE2-B177-498914D98C68}|S01_OOPIntro_Win\\S01_OOPIntro_Win.csproj|c:\\users\\ccitguest\\onedrive - firstasia.edu.ph\\documents\\gevana-it2_ipt\\s01\\discussion\\s01_oopintro_win\\s01_oopintro_win\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4511A7DF-DD4E-4BE2-B177-498914D98C68}|S01_OOPIntro_Win\\S01_OOPIntro_Win.csproj|solutionrelative:s01_oopintro_win\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4511A7DF-DD4E-4BE2-B177-498914D98C68}|S01_OOPIntro_Win\\S01_OOPIntro_Win.csproj|c:\\users\\ccitguest\\onedrive - firstasia.edu.ph\\documents\\gevana-it2_ipt\\s01\\discussion\\s01_oopintro_win\\s01_oopintro_win\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4511A7DF-DD4E-4BE2-B177-498914D98C68}|S01_OOPIntro_Win\\S01_OOPIntro_Win.csproj|solutionrelative:s01_oopintro_win\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4511A7DF-DD4E-4BE2-B177-498914D98C68}|S01_OOPIntro_Win\\S01_OOPIntro_Win.csproj|c:\\users\\ccitguest\\onedrive - firstasia.edu.ph\\documents\\gevana-it2_ipt\\s01\\discussion\\s01_oopintro_win\\s01_oopintro_win\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4511A7DF-DD4E-4BE2-B177-498914D98C68}|S01_OOPIntro_Win\\S01_OOPIntro_Win.csproj|solutionrelative:s01_oopintro_win\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\CCITGuest\\OneDrive - firstasia.edu.ph\\Documents\\Gevana-IT2_IPT\\S01\\Discussion\\S01_OOPIntro_Win\\S01_OOPIntro_Win\\Pet.cs",
+              "RelativeDocumentMoniker": "S01_OOPIntro_Win\\Pet.cs",
+              "ToolTip": "C:\\Users\\CCITGuest\\OneDrive - firstasia.edu.ph\\Documents\\Gevana-IT2_IPT\\S01\\Discussion\\S01_OOPIntro_Win\\S01_OOPIntro_Win\\Pet.cs",
+              "RelativeToolTip": "S01_OOPIntro_Win\\Pet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T08:30:48.895Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\CCITGuest\\OneDrive - firstasia.edu.ph\\Documents\\Gevana-IT2_IPT\\S01\\Discussion\\S01_OOPIntro_Win\\S01_OOPIntro_Win\\Form1.cs",
+              "RelativeDocumentMoniker": "S01_OOPIntro_Win\\Form1.cs",
+              "ToolTip": "C:\\Users\\CCITGuest\\OneDrive - firstasia.edu.ph\\Documents\\Gevana-IT2_IPT\\S01\\Discussion\\S01_OOPIntro_Win\\S01_OOPIntro_Win\\Form1.cs",
+              "RelativeToolTip": "S01_OOPIntro_Win\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T08:20:39.347Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CCITGuest\\OneDrive - firstasia.edu.ph\\Documents\\Gevana-IT2_IPT\\S01\\Discussion\\S01_OOPIntro_Win\\S01_OOPIntro_Win\\Form1.cs",
+              "RelativeDocumentMoniker": "S01_OOPIntro_Win\\Form1.cs",
+              "ToolTip": "C:\\Users\\CCITGuest\\OneDrive - firstasia.edu.ph\\Documents\\Gevana-IT2_IPT\\S01\\Discussion\\S01_OOPIntro_Win\\S01_OOPIntro_Win\\Form1.cs [Design]",
+              "RelativeToolTip": "S01_OOPIntro_Win\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:56:47.943Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

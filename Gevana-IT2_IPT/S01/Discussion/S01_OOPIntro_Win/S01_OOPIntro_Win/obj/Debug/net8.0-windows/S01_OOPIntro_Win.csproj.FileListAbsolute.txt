@@ -1,0 +1,16 @@
+C:\Users\CCITGuest\OneDrive - firstasia.edu.ph\Documents\Gevana-IT2_IPT\S01\Discussion\S01_OOPIntro_Win\S01_OOPIntro_Win\bin\Debug\net8.0-windows\S01_OOPIntro_Win.exe
+C:\Users\CCITGuest\OneDrive - firstasia.edu.ph\Documents\Gevana-IT2_IPT\S01\Discussion\S01_OOPIntro_Win\S01_OOPIntro_Win\bin\Debug\net8.0-windows\S01_OOPIntro_Win.deps.json
+C:\Users\CCITGuest\OneDrive - firstasia.edu.ph\Documents\Gevana-IT2_IPT\S01\Discussion\S01_OOPIntro_Win\S01_OOPIntro_Win\bin\Debug\net8.0-windows\S01_OOPIntro_Win.runtimeconfig.json
+C:\Users\CCITGuest\OneDrive - firstasia.edu.ph\Documents\Gevana-IT2_IPT\S01\Discussion\S01_OOPIntro_Win\S01_OOPIntro_Win\bin\Debug\net8.0-windows\S01_OOPIntro_Win.dll
+C:\Users\CCITGuest\OneDrive - firstasia.edu.ph\Documents\Gevana-IT2_IPT\S01\Discussion\S01_OOPIntro_Win\S01_OOPIntro_Win\bin\Debug\net8.0-windows\S01_OOPIntro_Win.pdb
+C:\Users\CCITGuest\OneDrive - firstasia.edu.ph\Documents\Gevana-IT2_IPT\S01\Discussion\S01_OOPIntro_Win\S01_OOPIntro_Win\obj\Debug\net8.0-windows\S01_OOPIntro_Win.Form1.resources
+C:\Users\CCITGuest\OneDrive - firstasia.edu.ph\Documents\Gevana-IT2_IPT\S01\Discussion\S01_OOPIntro_Win\S01_OOPIntro_Win\obj\Debug\net8.0-windows\S01_OOPIntro_Win.csproj.GenerateResource.cache
+C:\Users\CCITGuest\OneDrive - firstasia.edu.ph\Documents\Gevana-IT2_IPT\S01\Discussion\S01_OOPIntro_Win\S01_OOPIntro_Win\obj\Debug\net8.0-windows\S01_OOPIntro_Win.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCITGuest\OneDrive - firstasia.edu.ph\Documents\Gevana-IT2_IPT\S01\Discussion\S01_OOPIntro_Win\S01_OOPIntro_Win\obj\Debug\net8.0-windows\S01_OOPIntro_Win.AssemblyInfoInputs.cache
+C:\Users\CCITGuest\OneDrive - firstasia.edu.ph\Documents\Gevana-IT2_IPT\S01\Discussion\S01_OOPIntro_Win\S01_OOPIntro_Win\obj\Debug\net8.0-windows\S01_OOPIntro_Win.AssemblyInfo.cs
+C:\Users\CCITGuest\OneDrive - firstasia.edu.ph\Documents\Gevana-IT2_IPT\S01\Discussion\S01_OOPIntro_Win\S01_OOPIntro_Win\obj\Debug\net8.0-windows\S01_OOPIntro_Win.csproj.CoreCompileInputs.cache
+C:\Users\CCITGuest\OneDrive - firstasia.edu.ph\Documents\Gevana-IT2_IPT\S01\Discussion\S01_OOPIntro_Win\S01_OOPIntro_Win\obj\Debug\net8.0-windows\S01_OOPIntro_Win.dll
+C:\Users\CCITGuest\OneDrive - firstasia.edu.ph\Documents\Gevana-IT2_IPT\S01\Discussion\S01_OOPIntro_Win\S01_OOPIntro_Win\obj\Debug\net8.0-windows\refint\S01_OOPIntro_Win.dll
+C:\Users\CCITGuest\OneDrive - firstasia.edu.ph\Documents\Gevana-IT2_IPT\S01\Discussion\S01_OOPIntro_Win\S01_OOPIntro_Win\obj\Debug\net8.0-windows\S01_OOPIntro_Win.pdb
+C:\Users\CCITGuest\OneDrive - firstasia.edu.ph\Documents\Gevana-IT2_IPT\S01\Discussion\S01_OOPIntro_Win\S01_OOPIntro_Win\obj\Debug\net8.0-windows\S01_OOPIntro_Win.genruntimeconfig.cache
+C:\Users\CCITGuest\OneDrive - firstasia.edu.ph\Documents\Gevana-IT2_IPT\S01\Discussion\S01_OOPIntro_Win\S01_OOPIntro_Win\obj\Debug\net8.0-windows\ref\S01_OOPIntro_Win.dll
