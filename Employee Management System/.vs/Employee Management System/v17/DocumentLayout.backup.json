@@ -1,17 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\CCITGuest\\OneDrive - firstasia.edu.ph\\Documents\\Gevana-IT2_IPT\\S02\\ACTIVITY\\Employee Management System\\",
+  "WorkspaceRootPath": "C:\\Users\\DavidGlennGeva\u00F1a\\Documents\\CCIT\\Employee Management System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{099E32DB-866D-4933-8191-1379A164917A}|Employee Management System\\Employee Management System.csproj|c:\\users\\ccitguest\\onedrive - firstasia.edu.ph\\documents\\gevana-it2_ipt\\s02\\activity\\employee management system\\employee management system\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{099E32DB-866D-4933-8191-1379A164917A}|Employee Management System\\Employee Management System.csproj|solutionrelative:employee management system\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{099E32DB-866D-4933-8191-1379A164917A}|Employee Management System\\Employee Management System.csproj|c:\\users\\davidglenngeva\u00F1a\\documents\\ccit\\employee management system\\employee management system\\frmaddemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099E32DB-866D-4933-8191-1379A164917A}|Employee Management System\\Employee Management System.csproj|solutionrelative:employee management system\\frmaddemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{099E32DB-866D-4933-8191-1379A164917A}|Employee Management System\\Employee Management System.csproj|c:\\users\\ccitguest\\onedrive - firstasia.edu.ph\\documents\\gevana-it2_ipt\\s02\\activity\\employee management system\\employee management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{099E32DB-866D-4933-8191-1379A164917A}|Employee Management System\\Employee Management System.csproj|c:\\users\\davidglenngeva\u00F1a\\documents\\ccit\\employee management system\\employee management system\\crud\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099E32DB-866D-4933-8191-1379A164917A}|Employee Management System\\Employee Management System.csproj|solutionrelative:employee management system\\crud\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099E32DB-866D-4933-8191-1379A164917A}|Employee Management System\\Employee Management System.csproj|c:\\users\\davidglenngeva\u00F1a\\documents\\ccit\\employee management system\\employee management system\\frmmasterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099E32DB-866D-4933-8191-1379A164917A}|Employee Management System\\Employee Management System.csproj|solutionrelative:employee management system\\frmmasterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099E32DB-866D-4933-8191-1379A164917A}|Employee Management System\\Employee Management System.csproj|C:\\Users\\DavidGlennGeva\u00F1a\\Documents\\CCIT\\Employee Management System\\employee management system\\frmaddemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{099E32DB-866D-4933-8191-1379A164917A}|Employee Management System\\Employee Management System.csproj|solutionrelative:employee management system\\frmaddemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099E32DB-866D-4933-8191-1379A164917A}|Employee Management System\\Employee Management System.csproj|c:\\users\\davidglenngeva\u00F1a\\documents\\ccit\\employee management system\\employee management system\\frmaddemployee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099E32DB-866D-4933-8191-1379A164917A}|Employee Management System\\Employee Management System.csproj|solutionrelative:employee management system\\frmaddemployee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099E32DB-866D-4933-8191-1379A164917A}|Employee Management System\\Employee Management System.csproj|C:\\Users\\DavidGlennGeva\u00F1a\\Documents\\CCIT\\Employee Management System\\employee management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{099E32DB-866D-4933-8191-1379A164917A}|Employee Management System\\Employee Management System.csproj|solutionrelative:employee management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{099E32DB-866D-4933-8191-1379A164917A}|Employee Management System\\Employee Management System.csproj|c:\\users\\ccitguest\\onedrive - firstasia.edu.ph\\documents\\gevana-it2_ipt\\s02\\activity\\employee management system\\employee management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{099E32DB-866D-4933-8191-1379A164917A}|Employee Management System\\Employee Management System.csproj|c:\\users\\davidglenngeva\u00F1a\\documents\\ccit\\employee management system\\employee management system\\crud\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099E32DB-866D-4933-8191-1379A164917A}|Employee Management System\\Employee Management System.csproj|solutionrelative:employee management system\\crud\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099E32DB-866D-4933-8191-1379A164917A}|Employee Management System\\Employee Management System.csproj|c:\\users\\davidglenngeva\u00F1a\\documents\\ccit\\employee management system\\employee management system\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099E32DB-866D-4933-8191-1379A164917A}|Employee Management System\\Employee Management System.csproj|solutionrelative:employee management system\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099E32DB-866D-4933-8191-1379A164917A}|Employee Management System\\Employee Management System.csproj|c:\\users\\davidglenngeva\u00F1a\\documents\\ccit\\employee management system\\employee management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{099E32DB-866D-4933-8191-1379A164917A}|Employee Management System\\Employee Management System.csproj|solutionrelative:employee management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,49 +46,117 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Common.cs",
-              "DocumentMoniker": "C:\\Users\\CCITGuest\\OneDrive - firstasia.edu.ph\\Documents\\Gevana-IT2_IPT\\S02\\ACTIVITY\\Employee Management System\\Employee Management System\\Common.cs",
-              "RelativeDocumentMoniker": "Employee Management System\\Common.cs",
-              "ToolTip": "C:\\Users\\CCITGuest\\OneDrive - firstasia.edu.ph\\Documents\\Gevana-IT2_IPT\\S02\\ACTIVITY\\Employee Management System\\Employee Management System\\Common.cs",
-              "RelativeToolTip": "Employee Management System\\Common.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CRUD.cs",
+              "DocumentMoniker": "C:\\Users\\DavidGlennGeva\u00F1a\\Documents\\CCIT\\Employee Management System\\Employee Management System\\CRUD\\CRUD.cs",
+              "RelativeDocumentMoniker": "Employee Management System\\CRUD\\CRUD.cs",
+              "ToolTip": "C:\\Users\\DavidGlennGeva\u00F1a\\Documents\\CCIT\\Employee Management System\\Employee Management System\\CRUD\\CRUD.cs",
+              "RelativeToolTip": "Employee Management System\\CRUD\\CRUD.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswCMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T09:52:38.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-13T06:01:31.951Z",
+              "IsPinned": true
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAddEmployee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DavidGlennGeva\u00F1a\\Documents\\CCIT\\Employee Management System\\Employee Management System\\frmAddEmployee.cs",
+              "RelativeDocumentMoniker": "Employee Management System\\frmAddEmployee.cs",
+              "ToolTip": "C:\\Users\\DavidGlennGeva\u00F1a\\Documents\\CCIT\\Employee Management System\\Employee Management System\\frmAddEmployee.cs [Design]",
+              "RelativeToolTip": "Employee Management System\\frmAddEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T08:38:00.038Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAddEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\DavidGlennGeva\u00F1a\\Documents\\CCIT\\Employee Management System\\Employee Management System\\frmAddEmployee.cs",
+              "RelativeDocumentMoniker": "Employee Management System\\frmAddEmployee.cs",
+              "ToolTip": "C:\\Users\\DavidGlennGeva\u00F1a\\Documents\\CCIT\\Employee Management System\\Employee Management System\\frmAddEmployee.cs",
+              "RelativeToolTip": "Employee Management System\\frmAddEmployee.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T08:24:40.447Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "frmMasterData.cs",
+              "DocumentMoniker": "C:\\Users\\DavidGlennGeva\u00F1a\\Documents\\CCIT\\Employee Management System\\Employee Management System\\frmMasterData.cs",
+              "RelativeDocumentMoniker": "Employee Management System\\frmMasterData.cs",
+              "ToolTip": "C:\\Users\\DavidGlennGeva\u00F1a\\Documents\\CCIT\\Employee Management System\\Employee Management System\\frmMasterData.cs",
+              "RelativeToolTip": "Employee Management System\\frmMasterData.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAswE4AAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T06:45:37.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "connection.cs",
+              "DocumentMoniker": "C:\\Users\\DavidGlennGeva\u00F1a\\Documents\\CCIT\\Employee Management System\\Employee Management System\\CRUD\\connection.cs",
+              "RelativeDocumentMoniker": "Employee Management System\\CRUD\\connection.cs",
+              "ToolTip": "C:\\Users\\DavidGlennGeva\u00F1a\\Documents\\CCIT\\Employee Management System\\Employee Management System\\CRUD\\connection.cs",
+              "RelativeToolTip": "Employee Management System\\CRUD\\connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T10:09:12.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\CCITGuest\\OneDrive - firstasia.edu.ph\\Documents\\Gevana-IT2_IPT\\S02\\ACTIVITY\\Employee Management System\\Employee Management System\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DavidGlennGeva\u00F1a\\Documents\\CCIT\\Employee Management System\\Employee Management System\\Form1.cs",
               "RelativeDocumentMoniker": "Employee Management System\\Form1.cs",
-              "ToolTip": "C:\\Users\\CCITGuest\\OneDrive - firstasia.edu.ph\\Documents\\Gevana-IT2_IPT\\S02\\ACTIVITY\\Employee Management System\\Employee Management System\\Form1.cs",
+              "ToolTip": "C:\\Users\\DavidGlennGeva\u00F1a\\Documents\\CCIT\\Employee Management System\\Employee Management System\\Form1.cs",
               "RelativeToolTip": "Employee Management System\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAqwFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-23T09:35:14.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "Common.cs",
+              "DocumentMoniker": "C:\\Users\\DavidGlennGeva\u00F1a\\Documents\\CCIT\\Employee Management System\\Employee Management System\\Common.cs",
+              "RelativeDocumentMoniker": "Employee Management System\\Common.cs",
+              "ToolTip": "C:\\Users\\DavidGlennGeva\u00F1a\\Documents\\CCIT\\Employee Management System\\Employee Management System\\Common.cs",
+              "RelativeToolTip": "Employee Management System\\Common.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T09:52:38.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\CCITGuest\\OneDrive - firstasia.edu.ph\\Documents\\Gevana-IT2_IPT\\S02\\ACTIVITY\\Employee Management System\\Employee Management System\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DavidGlennGeva\u00F1a\\Documents\\CCIT\\Employee Management System\\Employee Management System\\Form1.cs",
               "RelativeDocumentMoniker": "Employee Management System\\Form1.cs",
-              "ToolTip": "C:\\Users\\CCITGuest\\OneDrive - firstasia.edu.ph\\Documents\\Gevana-IT2_IPT\\S02\\ACTIVITY\\Employee Management System\\Employee Management System\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\DavidGlennGeva\u00F1a\\Documents\\CCIT\\Employee Management System\\Employee Management System\\Form1.cs [Design]",
               "RelativeToolTip": "Employee Management System\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T09:14:35.214Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-08-23T09:14:35.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAddEmployee.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DavidGlennGeva\u00F1a\\Documents\\CCIT\\Employee Management System\\Employee Management System\\frmAddEmployee.Designer.cs",
+              "RelativeDocumentMoniker": "Employee Management System\\frmAddEmployee.Designer.cs",
+              "ToolTip": "C:\\Users\\DavidGlennGeva\u00F1a\\Documents\\CCIT\\Employee Management System\\Employee Management System\\frmAddEmployee.Designer.cs",
+              "RelativeToolTip": "Employee Management System\\frmAddEmployee.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAO8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T08:37:23.801Z"
             }
           ]
         }

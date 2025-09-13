@@ -14,3 +14,20 @@ C:\Users\CCITGuest\OneDrive - firstasia.edu.ph\Documents\Gevana-IT2_IPT\S01\Disc
 C:\Users\CCITGuest\OneDrive - firstasia.edu.ph\Documents\Gevana-IT2_IPT\S01\Discussion\S01_OOPOperator_Win\S01_OOPOperator_Win\obj\Debug\net8.0-windows\S01_OOPOperator_Win.pdb
 C:\Users\CCITGuest\OneDrive - firstasia.edu.ph\Documents\Gevana-IT2_IPT\S01\Discussion\S01_OOPOperator_Win\S01_OOPOperator_Win\obj\Debug\net8.0-windows\S01_OOPOperator_Win.genruntimeconfig.cache
 C:\Users\CCITGuest\OneDrive - firstasia.edu.ph\Documents\Gevana-IT2_IPT\S01\Discussion\S01_OOPOperator_Win\S01_OOPOperator_Win\obj\Debug\net8.0-windows\ref\S01_OOPOperator_Win.dll
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Gevana-IT2_IPT\S01\Discussion\S01_OOPOperator_Win\S01_OOPOperator_Win\bin\Debug\net8.0-windows\S01_OOPOperator_Win.exe
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Gevana-IT2_IPT\S01\Discussion\S01_OOPOperator_Win\S01_OOPOperator_Win\bin\Debug\net8.0-windows\S01_OOPOperator_Win.deps.json
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Gevana-IT2_IPT\S01\Discussion\S01_OOPOperator_Win\S01_OOPOperator_Win\bin\Debug\net8.0-windows\S01_OOPOperator_Win.runtimeconfig.json
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Gevana-IT2_IPT\S01\Discussion\S01_OOPOperator_Win\S01_OOPOperator_Win\bin\Debug\net8.0-windows\S01_OOPOperator_Win.dll
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Gevana-IT2_IPT\S01\Discussion\S01_OOPOperator_Win\S01_OOPOperator_Win\bin\Debug\net8.0-windows\S01_OOPOperator_Win.pdb
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Gevana-IT2_IPT\S01\Discussion\S01_OOPOperator_Win\S01_OOPOperator_Win\obj\Debug\net8.0-windows\S01_OOPOperator_Win.Form1.resources
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Gevana-IT2_IPT\S01\Discussion\S01_OOPOperator_Win\S01_OOPOperator_Win\obj\Debug\net8.0-windows\S01_OOPOperator_Win.csproj.GenerateResource.cache
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Gevana-IT2_IPT\S01\Discussion\S01_OOPOperator_Win\S01_OOPOperator_Win\obj\Debug\net8.0-windows\S01_OOPOperator_Win.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Gevana-IT2_IPT\S01\Discussion\S01_OOPOperator_Win\S01_OOPOperator_Win\obj\Debug\net8.0-windows\S01_OOPOperator_Win.AssemblyInfoInputs.cache
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Gevana-IT2_IPT\S01\Discussion\S01_OOPOperator_Win\S01_OOPOperator_Win\obj\Debug\net8.0-windows\S01_OOPOperator_Win.AssemblyInfo.cs
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Gevana-IT2_IPT\S01\Discussion\S01_OOPOperator_Win\S01_OOPOperator_Win\obj\Debug\net8.0-windows\S01_OOPOperator_Win.csproj.CoreCompileInputs.cache
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Gevana-IT2_IPT\S01\Discussion\S01_OOPOperator_Win\S01_OOPOperator_Win\obj\Debug\net8.0-windows\S01_OOPOperator_Win.sourcelink.json
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Gevana-IT2_IPT\S01\Discussion\S01_OOPOperator_Win\S01_OOPOperator_Win\obj\Debug\net8.0-windows\S01_OOPOperator_Win.dll
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Gevana-IT2_IPT\S01\Discussion\S01_OOPOperator_Win\S01_OOPOperator_Win\obj\Debug\net8.0-windows\refint\S01_OOPOperator_Win.dll
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Gevana-IT2_IPT\S01\Discussion\S01_OOPOperator_Win\S01_OOPOperator_Win\obj\Debug\net8.0-windows\S01_OOPOperator_Win.pdb
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Gevana-IT2_IPT\S01\Discussion\S01_OOPOperator_Win\S01_OOPOperator_Win\obj\Debug\net8.0-windows\S01_OOPOperator_Win.genruntimeconfig.cache
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Gevana-IT2_IPT\S01\Discussion\S01_OOPOperator_Win\S01_OOPOperator_Win\obj\Debug\net8.0-windows\ref\S01_OOPOperator_Win.dll

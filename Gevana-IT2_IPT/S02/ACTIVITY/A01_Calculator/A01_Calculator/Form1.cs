@@ -1,5 +1,6 @@
 using System.Data.OleDb;
 using System.Drawing.Text;
+using System.Text;
 
 namespace A01_Calculator
 {
@@ -16,11 +17,11 @@ namespace A01_Calculator
         private int originalWidth;
 
         string dbPath = @"C:\LOCALDB\Calculator.accdb";
-
+       
 
         private void btn0_Click(object sender, EventArgs e)
         {
-            
+
         }
 
         private void btnEqual_Click(object sender, EventArgs e)
@@ -31,34 +32,34 @@ namespace A01_Calculator
 
         private void btn1_Click(object sender, EventArgs e)
         {
-            
+
         }
 
         private void btn2_Click(object sender, EventArgs e)
         {
-            
+
         }
 
         private void btn3_Click(object sender, EventArgs e)
         {
-            
+
         }
 
         private void btn4_Click(object sender, EventArgs e)
         {
-            
+
 
         }
 
         private void btn5_Click(object sender, EventArgs e)
         {
-            
+
 
         }
 
         private void btn6_Click(object sender, EventArgs e)
         {
-            
+
 
         }
 
@@ -76,7 +77,7 @@ namespace A01_Calculator
 
         private void btnErase_Click(object sender, EventArgs e)
         {
-             if (textDisplay.Text.Length > 0)
+            if (textDisplay.Text.Length > 0)
             {
                 textDisplay.Text = textDisplay.Text.Substring(0, textDisplay.Text.Length - 1);
 
@@ -103,7 +104,7 @@ namespace A01_Calculator
             textEquation.Text = "";
 
             isNewEntry = true;
-                
+
         }
 
         private void textDisplay_TextChanged(object sender, EventArgs e)
@@ -131,16 +132,17 @@ namespace A01_Calculator
             int dotCount = textDisplay.Text.Count(c => c == '.');
             if (dotCount >= 1)
             {
-                if(btn.Text != ".")
+                if (btn.Text != ".")
                 {
                     textDisplay.Text += btn.Text;
                 }
-                
+
             }
-            else if(textDisplay.Text == "" && btn.Text == ".")
+            else if (textDisplay.Text == "" && btn.Text == ".")
             {
                 textDisplay.Text = "0. ";
-            }else
+            }
+            else
             {
                 textDisplay.Text += btn.Text;
                 if (textDisplay.Text.Contains(".."))
@@ -148,7 +150,7 @@ namespace A01_Calculator
                     textDisplay.Text = textDisplay.Text.Replace("..", ".");
                 }
             }
-            
+
             textEquation.Text += btn.Text;
         }
 
@@ -212,7 +214,7 @@ namespace A01_Calculator
             textEquation.Text += "= " + result.ToString();
 
             InsertEquationToDatabase(textEquation.Text);
-           // DisplayDBToTB();
+            DisplayDBToTB();
 
             isNewEntry = true;
         }
@@ -221,7 +223,7 @@ namespace A01_Calculator
         {
             string connStr = $"Provider=Microsoft.ACE.OLEDB.12.0;Data Source={dbPath};";
 
-            string insertQuery = "INSERT ONTO tbl_Calculator_History (Equation) VALUES (@equation)";
+            string insertQuery = "INSERT INTO tbl_Calculator_History (Equation) VALUES (@equation)";
 
             using (OleDbConnection conn = new OleDbConnection(connStr))
             {
@@ -239,7 +241,41 @@ namespace A01_Calculator
                 }
             }
         }
+        private void DisplayDBToTB()
+        {
+            string dbPath = @"C:\LOCALDB\Calculator.accdb";
+            string connStr = $"Provider=Microsoft.ACE.OLEDB.12.0;Data Source={dbPath};";
+            string query = "SELECT equation FROM tbl_Calculator_History order by ID desc";
 
+            using (OleDbConnection conn = new OleDbConnection(connStr))
+            {
+                try
+                {
+                    conn.Open();
+                    OleDbCommand insertCmd = new OleDbCommand(query, conn);
+                    OleDbDataReader reader = insertCmd.ExecuteReader();
+                    StringBuilder sb = new StringBuilder();
+
+                    while (reader.Read())
+                    {
+                        string equation = reader["Equation"].ToString();
+
+                        sb.AppendLine(equation);
+                    }
+                    textstorage.Multiline = true;
+                    textstorage.ScrollBars = ScrollBars.Vertical;
+                    textstorage.Text = sb.ToString();
+
+                    reader.Close();
+                    conn.Close();
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Error: +  ex.Message");
+                }
+
+            }
+        }
     }
 }
 

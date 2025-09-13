@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CCITGuest\\OneDrive - firstasia.edu.ph\\Documents\\Gevana-IT2_IPT\\S02\\ACTIVITY\\Employee Management System\\Employee Management System\\Employee Management System.csproj": {}
+    "C:\\Users\\DavidGlennGevaña\\Documents\\CCIT\\Employee Management System\\Employee Management System\\Employee Management System.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CCITGuest\\OneDrive - firstasia.edu.ph\\Documents\\Gevana-IT2_IPT\\S02\\ACTIVITY\\Employee Management System\\Employee Management System\\Employee Management System.csproj": {
+    "C:\\Users\\DavidGlennGevaña\\Documents\\CCIT\\Employee Management System\\Employee Management System\\Employee Management System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CCITGuest\\OneDrive - firstasia.edu.ph\\Documents\\Gevana-IT2_IPT\\S02\\ACTIVITY\\Employee Management System\\Employee Management System\\Employee Management System.csproj",
+        "projectUniqueName": "C:\\Users\\DavidGlennGevaña\\Documents\\CCIT\\Employee Management System\\Employee Management System\\Employee Management System.csproj",
         "projectName": "Employee Management System",
-        "projectPath": "C:\\Users\\CCITGuest\\OneDrive - firstasia.edu.ph\\Documents\\Gevana-IT2_IPT\\S02\\ACTIVITY\\Employee Management System\\Employee Management System\\Employee Management System.csproj",
-        "packagesPath": "C:\\Users\\CCITGuest\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CCITGuest\\OneDrive - firstasia.edu.ph\\Documents\\Gevana-IT2_IPT\\S02\\ACTIVITY\\Employee Management System\\Employee Management System\\obj\\",
+        "projectPath": "C:\\Users\\DavidGlennGevaña\\Documents\\CCIT\\Employee Management System\\Employee Management System\\Employee Management System.csproj",
+        "packagesPath": "C:\\Users\\DavidGlennGevaña\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DavidGlennGevaña\\Documents\\CCIT\\Employee Management System\\Employee Management System\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\CCITGuest\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DavidGlennGevaña\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,6 +45,16 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Microsoft.Office.Interop.Excel": {
+              "target": "Package",
+              "version": "[15.0.4795.1001, )"
+            },
+            "System.Data.OleDb": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

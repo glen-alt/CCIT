@@ -285,19 +285,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CCITGuest\\.nuget\\packages\\": {}
+    "C:\\Users\\DavidGlennGevaña\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CCITGuest\\OneDrive - firstasia.edu.ph\\Documents\\Gevana-IT2_IPT\\S02\\ACTIVITY\\A01_Calculator\\A01_Calculator\\A01_Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\DavidGlennGevaña\\Documents\\CALCULATOR\\Gevana-IT2_IPT\\S02\\ACTIVITY\\A01_Calculator\\A01_Calculator\\A01_Calculator.csproj",
       "projectName": "A01_Calculator",
-      "projectPath": "C:\\Users\\CCITGuest\\OneDrive - firstasia.edu.ph\\Documents\\Gevana-IT2_IPT\\S02\\ACTIVITY\\A01_Calculator\\A01_Calculator\\A01_Calculator.csproj",
-      "packagesPath": "C:\\Users\\CCITGuest\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CCITGuest\\OneDrive - firstasia.edu.ph\\Documents\\Gevana-IT2_IPT\\S02\\ACTIVITY\\A01_Calculator\\A01_Calculator\\obj\\",
+      "projectPath": "C:\\Users\\DavidGlennGevaña\\Documents\\CALCULATOR\\Gevana-IT2_IPT\\S02\\ACTIVITY\\A01_Calculator\\A01_Calculator\\A01_Calculator.csproj",
+      "packagesPath": "C:\\Users\\DavidGlennGevaña\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DavidGlennGevaña\\Documents\\CALCULATOR\\Gevana-IT2_IPT\\S02\\ACTIVITY\\A01_Calculator\\A01_Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\CCITGuest\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DavidGlennGevaña\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

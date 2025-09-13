@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("S01_OOPIntro_Win")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d4c5306ef08dd87b8b6f86a1c449419e02fa819")]
 [assembly: System.Reflection.AssemblyProductAttribute("S01_OOPIntro_Win")]
 [assembly: System.Reflection.AssemblyTitleAttribute("S01_OOPIntro_Win")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

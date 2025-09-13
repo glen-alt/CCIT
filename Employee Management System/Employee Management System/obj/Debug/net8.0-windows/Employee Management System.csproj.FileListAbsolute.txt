@@ -14,3 +14,65 @@ C:\Users\CCITGuest\OneDrive - firstasia.edu.ph\Documents\Gevana-IT2_IPT\S02\ACTI
 C:\Users\CCITGuest\OneDrive - firstasia.edu.ph\Documents\Gevana-IT2_IPT\S02\ACTIVITY\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\Employee Management System.pdb
 C:\Users\CCITGuest\OneDrive - firstasia.edu.ph\Documents\Gevana-IT2_IPT\S02\ACTIVITY\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\Employee Management System.genruntimeconfig.cache
 C:\Users\CCITGuest\OneDrive - firstasia.edu.ph\Documents\Gevana-IT2_IPT\S02\ACTIVITY\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\ref\Employee Management System.dll
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Employee Management System\Employee Management System\bin\Debug\net8.0-windows\Employee Management System.exe
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Employee Management System\Employee Management System\bin\Debug\net8.0-windows\Employee Management System.deps.json
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Employee Management System\Employee Management System\bin\Debug\net8.0-windows\Employee Management System.runtimeconfig.json
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Employee Management System\Employee Management System\bin\Debug\net8.0-windows\Employee Management System.dll
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Employee Management System\Employee Management System\bin\Debug\net8.0-windows\Employee Management System.pdb
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\Employee_Management_System.frmMotherForm.resources
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\Employee Management System.csproj.GenerateResource.cache
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\Employee Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\Employee Management System.AssemblyInfoInputs.cache
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\Employee Management System.AssemblyInfo.cs
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\Employee Management System.csproj.CoreCompileInputs.cache
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\Employee Management System.sourcelink.json
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\Employee Management System.dll
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\refint\Employee Management System.dll
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\Employee Management System.pdb
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\Employee Management System.genruntimeconfig.cache
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\ref\Employee Management System.dll
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\Employee_Management_System.frmMasterData.resources
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\Employee_Management_System.frmAddEmployee.resources
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Employee Management System\Employee Management System\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Employee Management System\Employee Management System\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Employee Management System\Employee Management System\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Employee Management System\Employee Management System\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Employee Management System\Employee Management System\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Employee Management System\Employee Management System\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Employee Management System\Employee Management System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Employee Management System\Employee Management System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Employee Management System\Employee Management System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Employee Management System\Employee Management System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\Employee Management System.csproj.AssemblyReference.cache
+C:\Users\DavidGlennGevaña\Documents\CALCULATOR\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\Employee.861BF793.Up2Date
+C:\Users\DavidGlennGevaña\Documents\CCIT\Employee Management System\Employee Management System\bin\Debug\net8.0-windows\Employee Management System.exe
+C:\Users\DavidGlennGevaña\Documents\CCIT\Employee Management System\Employee Management System\bin\Debug\net8.0-windows\Employee Management System.deps.json
+C:\Users\DavidGlennGevaña\Documents\CCIT\Employee Management System\Employee Management System\bin\Debug\net8.0-windows\Employee Management System.runtimeconfig.json
+C:\Users\DavidGlennGevaña\Documents\CCIT\Employee Management System\Employee Management System\bin\Debug\net8.0-windows\Employee Management System.dll
+C:\Users\DavidGlennGevaña\Documents\CCIT\Employee Management System\Employee Management System\bin\Debug\net8.0-windows\Employee Management System.pdb
+C:\Users\DavidGlennGevaña\Documents\CCIT\Employee Management System\Employee Management System\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\DavidGlennGevaña\Documents\CCIT\Employee Management System\Employee Management System\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\DavidGlennGevaña\Documents\CCIT\Employee Management System\Employee Management System\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\DavidGlennGevaña\Documents\CCIT\Employee Management System\Employee Management System\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\DavidGlennGevaña\Documents\CCIT\Employee Management System\Employee Management System\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\DavidGlennGevaña\Documents\CCIT\Employee Management System\Employee Management System\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DavidGlennGevaña\Documents\CCIT\Employee Management System\Employee Management System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\DavidGlennGevaña\Documents\CCIT\Employee Management System\Employee Management System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\DavidGlennGevaña\Documents\CCIT\Employee Management System\Employee Management System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\DavidGlennGevaña\Documents\CCIT\Employee Management System\Employee Management System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\DavidGlennGevaña\Documents\CCIT\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\Employee Management System.csproj.AssemblyReference.cache
+C:\Users\DavidGlennGevaña\Documents\CCIT\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\Employee_Management_System.frmMotherForm.resources
+C:\Users\DavidGlennGevaña\Documents\CCIT\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\Employee_Management_System.frmAddEmployee.resources
+C:\Users\DavidGlennGevaña\Documents\CCIT\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\Employee_Management_System.frmMasterData.resources
+C:\Users\DavidGlennGevaña\Documents\CCIT\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\Employee Management System.csproj.GenerateResource.cache
+C:\Users\DavidGlennGevaña\Documents\CCIT\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\Employee Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DavidGlennGevaña\Documents\CCIT\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\Employee Management System.AssemblyInfoInputs.cache
+C:\Users\DavidGlennGevaña\Documents\CCIT\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\Employee Management System.AssemblyInfo.cs
+C:\Users\DavidGlennGevaña\Documents\CCIT\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\Employee Management System.csproj.CoreCompileInputs.cache
+C:\Users\DavidGlennGevaña\Documents\CCIT\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\Employee Management System.sourcelink.json
+C:\Users\DavidGlennGevaña\Documents\CCIT\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\Employee.861BF793.Up2Date
+C:\Users\DavidGlennGevaña\Documents\CCIT\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\Employee Management System.dll
+C:\Users\DavidGlennGevaña\Documents\CCIT\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\refint\Employee Management System.dll
+C:\Users\DavidGlennGevaña\Documents\CCIT\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\Employee Management System.pdb
+C:\Users\DavidGlennGevaña\Documents\CCIT\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\Employee Management System.genruntimeconfig.cache
+C:\Users\DavidGlennGevaña\Documents\CCIT\Employee Management System\Employee Management System\obj\Debug\net8.0-windows\ref\Employee Management System.dll

@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "Po6T4EKBYsE=",
+  "dgSpecHash": "L7trLQTbMdM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\CCITGuest\\OneDrive - firstasia.edu.ph\\Documents\\Gevana-IT2_IPT\\S02\\ACTIVITY\\Employee Management System\\Employee Management System\\Employee Management System.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\DavidGlennGevaña\\Documents\\CCIT\\Employee Management System\\Employee Management System\\Employee Management System.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DavidGlennGevaña\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512",
+    "C:\\Users\\DavidGlennGevaña\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.8\\system.configuration.configurationmanager.9.0.8.nupkg.sha512",
+    "C:\\Users\\DavidGlennGevaña\\.nuget\\packages\\system.data.oledb\\9.0.8\\system.data.oledb.9.0.8.nupkg.sha512",
+    "C:\\Users\\DavidGlennGevaña\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.8\\system.diagnostics.eventlog.9.0.8.nupkg.sha512",
+    "C:\\Users\\DavidGlennGevaña\\.nuget\\packages\\system.diagnostics.performancecounter\\9.0.8\\system.diagnostics.performancecounter.9.0.8.nupkg.sha512",
+    "C:\\Users\\DavidGlennGevaña\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.8\\system.security.cryptography.protecteddata.9.0.8.nupkg.sha512"
+  ],
   "logs": []
 }
